@@ -21,9 +21,11 @@ Some of my interests include Web & Software Dev, but I'm also learning a lot abo
 ![Docker-blue](https://img.shields.io/badge/Docker-blue)
 
 ---------------------------------------------------
-#### And now frameworks like Astro and Tailwind CSS!
+### Some cool developments:
 
-#### Recently I learned a little about using API's in my websites along with JavaScript to make everything more dynamic
+#### This quarter I started using frameworks like Astro and Tailwind CSS!
+
+#### Also, I learned a little about using API's in my websites along with JavaScript to make everything more dynamic
 <!--
 **pja6/pja6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
