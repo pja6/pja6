@@ -1,12 +1,29 @@
-# Paul Aguilar
-## Hi there 👋
+# Hi there 👋
 
-### About Me
+## My name is  Paul Aguilar
 
-Current CS student at EWU
+
+### A little About Me:
+
+I'm currently a PostBac at EWU studying Computer Science. My github is mostly full of projects completed during the school year, though I hope to find time to start adding some of my own personal ones too!
+
+Some of my interests include Web & Software Dev, but I'm also learning a lot about databases, cybersecurity and dev ops which has been really cool!
+
+--------------------------------------------------
+
 ### Skills:
-A few of the tools that I've used:
-Java, HTML, CSS, Python, Docker
+#### A few of the tools that I've used:
+
+![Java-orange](https://img.shields.io/badge/Java-orange)
+, ![HTML-red](https://img.shields.io/badge/HTML-red), 
+![CSS-purple](https://img.shields.io/badge/CSS-purple), 
+![Python-yellow](https://img.shields.io/badge/Python-yellow), 
+![Docker-blue](https://img.shields.io/badge/Docker-blue)
+
+---------------------------------------------------
+#### And now frameworks like Astro and Tailwind CSS!
+
+#### Recently I learned a little about using API's in my websites along with JavaScript to make everything more dynamic
 <!--
 **pja6/pja6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
