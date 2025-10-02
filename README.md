@@ -5,7 +5,7 @@
 
 ### A little About Me:
 
-I'm currently a PostBac at EWU studying Computer Science. My github is mostly full of projects completed during the school year, though I hope to find time to start adding some of my own personal ones too!
+I'm currently a Master's student at EWU studying Cyber Security. My github is mostly full of projects completed during the school year, though I hope to find time to start adding some of my own personal ones too!
 
 Some of my interests include Web & Software Dev, but I'm also learning a lot about databases, cybersecurity and dev ops which has been really cool!
 
